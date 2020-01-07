@@ -25,6 +25,8 @@
 * 需要更多更全面的分析
 * 需要更直观的数据结果的呈现
 
+# pythonanywhere链接入口
+[点击跳转](http://chowilau.pythonanywhere.com/?)
 
 
 
